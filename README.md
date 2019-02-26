@@ -1,6 +1,6 @@
 # Волшебный шар
 Волшебный шар восьмёрка — помощник в принятии решений.
-* [https://ru.wikipedia.org/wiki/Magic_8_ball]
+* https://ru.wikipedia.org/wiki/Magic_8_ball
 * программа написана на **Ruby**.
 * автор **Олег Притула**.
 
